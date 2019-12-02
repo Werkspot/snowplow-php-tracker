@@ -14,7 +14,7 @@
     },
     "require": {
         "php": ">=7.2",
-        "rmccue/requests": ">=1.7",
+        "rmccue/requests": "dev-master#58a0bbc",
         "ramsey/uuid": "3.8.0"
     },
     "require-dev": {
